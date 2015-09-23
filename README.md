@@ -1,4 +1,4 @@
-# minicursopython2015
+# Minicurso de Python FATEC-2015 (Semana da Tecnologia)
 Minicurso de Python ministrado na FATEC Guaratinguetá em Setembro de 2015
 
 Todos os materiais estão disponíveis para fonte de estudo.
